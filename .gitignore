@@ -1,0 +1,4 @@
+data/
+tblspc/
+*.sql
+__pycache__
